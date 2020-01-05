@@ -1,6 +1,6 @@
 
-Welcome to GitHub repository of cpypp 
-=====================================
+Welcome to repository of cpypp 
+==============================
 
 **cpypp** is the implementation of a c-stype preprocessor for Python Programming Languages 2.7+
 
